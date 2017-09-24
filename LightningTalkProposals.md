@@ -1,4 +1,4 @@
-The following lightning talks have been proposed for the Strange Loop 2017 session on Friday, September 29, at Union Station in Grand EF from 8:30-10:00 pm.
+Lightning talks will take place on Friday, September 29, at Union Station in Grand EF from 8:30-10:00 pm.
 
 The following lightning talks were selected by popular vote (more on schedule to come!):
 
