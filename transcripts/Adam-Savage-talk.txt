@@ -1,0 +1,113 @@
+    Adam Savage -- Closing Keynote
+    Strange Loop 2017
+    
+    ADAM SAVAGE:  Good afternoon!  Look at all of you. Hi, everybody. Well, thank you so much for having me out. I love this particular kind of crowd more than any other, because you guys get my geeky jokes. I frequently, when people ask me about MythBusters and programming on other networks, I love saying the point, "Wouldn't you love to be watching NatGeo someday and have them put up a public announcement that says, 'Hey, we're really sorry about wasting your time with all that Nostradamus bullshit.'" 
+     Regular people don't laugh at that joke, and I have never worked in computer science or security, where I know a lot of you found your homes, but I am in spirit with you. My doctor in San Francisco is with the very prestigious hospital, UCSF, and they call me occasionally and say, "Hey, we'd like to talk to you about your upcoming appointment," and I say great, and they say, "Before I do, we're going of to to ask you some security questions," and I go, "No, that's not how this works. You called me," and they go, "Right. In order to continue, we need to ask you some security questions," and I go, "No, I'm going to need to you ask YOU some security questions."
+     I'm paranoid, just as one needs to be. As Joseph Heller, the author of Catch-22, said, "Just because you're paranoid doesn't mean they're not out to get you."  
+     And this morning I ordered breakfast and I had one of those classic conversations where I said, I want scrambled eggs and bacon and they said, Oh, you want the all American and that's two eggs with -- and how would you like your eggs? Scrambled. Bacon or sausage?  Bacon. What kind of bread? 
+     And 40 seconds later, my room phone rings and it says, we're just trying to ring up your room charge of 20.99; is that correct? And your credit card isn't going through, and I'm like, wow, my breakfast is getting cold, can I just give it to you when I go past the desk? And he's like, we really need it to close out the account. And I give him the numbers and I give him the expiration date and he says: The 4-digit security code. It was an Amex. And I pause, and he goes, I need that security code and the way he said it waked up some little tiny thing in my brain, that was like, wait a minute!  And I said, you know what, I don't feel comfortable giving you any more information about my credit card, and he hung up. And I was like, oh, fuck!
+    [laughter]
+    Sorry, if there are children in the audience, just remember that it's cool for adults to curse and it's just gross to watch children curse.
+    [laughter]
+    And so I, you know, I had to cancel the card. Amex seems to me really -- well, they said yes, we'll have a new card sent to your hotel in Los Angeles on Monday, and bonus, this one will be metal. And I'm like, great, I can sharpen it and get past the TSA.
+    [laughter]
+    Oh, do I have a clicker somewhere? Here it is. I'll bet green is how to go forward. I wanted to talk a little bit about -- a little bit about my work in process and a little bit about being a maker and being who I am. I have twin boys, Thing 1 and Thing 2. They're now 18. I have had the full gamut of parenting. I had one graduate from high school and one get permanently expelled in the same month. Whee!  They're both wonderful. 
+     It doesn't ever stop, the whole parenting thing. You think whoa you're getting close to graduation you're reaching the end of a long drive. You're so totally not!
+    [laughter]
+    But I am a 50-year-old man, and I am also a 15-year-old boy.
+    [laughter]
+    My whole life has been spent in tension between these two poles, between the adult me and the child me, and on the negative side of this ledger is -- I've spent a good portion of the intervening 35 years since I was 15 engaging in therapy, engaging in the talking cure. 
+     I'm a big believer in therapy. My mother was an actual psychotherapist, so is my wife, and I believe in the talking cure. And one of the things that I have discovered in my adult life in therapy is that many of the dumb coping mechanisms that I have developed that don't serve me, I concluded when I was 15, right? 
+     Like I made decisions about how the world works at the age of 15, and then I tried to use those decisions to construct my life, and there's so many of those things that you conclude when you're 15 about yourself, about how other people respond to you, they're -- well, actually I will say that I had a therapist that pointed out to me about coping mechanisms -- I was decrying my dumb coping mechanisms, and he said, You really need to give them credit. Your coping mechanisms that you came up were really good solutions at the very moment you needed them. Just not ever again.
+    [laughter]
+    
+    And that 15-year-old self, I'm still extricating his poor ideas, his low self-esteem, his loneliness from the me that exists now. 
+     I still feel him when I step into a room and I don't know anybody and I'm not sure where to sit. That still affects me, and it never leaves me. It amazed me when I finally understood this when I called my mom. She's in China now, on a three-week tour. She's amazing, but when I turned 40, I called her up and I said, "You don't know anything more about what's going on than you did when you were 15, do you?" And she's like nope, no idea. 
+     So the 15-year-old me went and saw Excalibur, and I promptly built this suit of armor out of cardboard. This last June, I went to Cornwall, England, the southwestern tip of England, and I spent a week in Terry English's shop. He built all the armor for Excalibur, and he graciously took me on a video where we made me a suit of Arthur's armor from Excalibur. This is the ultimate bucket list for me as a 15-year-old. I wear this thing all the time.
+    [laughter]
+    I want to live like I'm in Excalibur, because they're wearing that armor like to dinner, they're wearing it to bed. 
+     
+     This is the shop in my parents' basement I built when I was 15. This is my shop now. Yeah. You can see the parity. I like being visually overwhelmed. Actually here's hipster me at 16, yeah, cool.
+    [laughter]
+    
+    And here's -- heh-heh-heh-heh -- 30 years later. When I was 15, I made some good decisions, like getting interested in building models and millennium falcons, and this is when I picked up my very first obsessive case. I found a doctor's bag. My grandfather was a surgeon, and I think I pulled this out of one of -- you know -- of some some attic at my grandparents' house. 
+     I credit this bag with my very first set of stitches I had as a model maker, you know, I had some glue and some X-acto handles and X-acto blades, and one of those blades had fallen out of its case and was rattling around the bottom of my toolbox and it had slowly worked its way to the corner where it stuck its little pointy nose out of the corner, just by the tiniest bit. And I didn't know this, so I picked up the bag and it grazed against my pants and I was continuing to walk upstairs, and when I finally got upstairs to my room, I was like, why is my shoe all wet?
+    [laughter]
+    
+    And it was full of blood, because I'd given myself 7 stitches across my calf with this case. 
+     But I became instantly obsessed with both the doing and the gear around the doing. Not just the model-making, but having the gear at my disposal to do the model-making, and I spent a decade, really, or more, filling this doctor's bag with more and more tools. I started out in graphic design and animation, and I moved to San Francisco in 1990 and got into the theatre industry, and I had gotten a reputation for being able to solve problems. And that led directly to working in commercials and film special effects, and this doctor's bag went with me the whole time. 
+     In fact it got a partner. I found an identical doctor's bag at a flea market, and I filled it with even more tools, and these things got really heavy. I finally went to Industrial Magic, and my boss said -- I'm doing a slight Bill Murray accent. Because that's what my boss sounded like -- and he said, "You should make some scissor lifts for them." 
+     It was like Heaven on earth for me, and I wanted to make a splash so I thought, "I'm going to come in tomorrow morning with scissor lifts," and I did. 
+     I used so many rivets that night I could not hold a pencil the next day because of hand doing the pop rivets, but I came in with these, and then I could sit. I could sit at this -- at the work bench and I could have the bags on either side, and I could work as fast as I could think. It was so awesome. 
+     Eventually, the leather doctor bags failed. They couldn't handle the weight of what I was asking them to do, and they started tearing on all of their seams. So I remade them in aluminum.
+    [laughter]
+    
+    These carted around with me for the entire 6 years I spent at Industrial Light and Magic. There they are, filled with all of their tools. 
+     I made a list and a drawing of the 500-some-odd modeling tools that are in these two kits, and they really are sort of a pinnacle for me. They are what allowed me to make this for Episode 2. And THANKS YOU GUYS, for Episode 2! I also worked on The Matrix 2 and 3.
+    [laughter]
+    
+    When you work in the film industry, you're almost always working on a terrible movie. Let's just face it.
+    [laughter]
+    
+    We call it turd-polishing. But by the way. Total aside: I saw Blade Runner. And it's great.
+    [applause]
+    
+    Not going to give any other information, I'm just gonna say it belongs within the pantheon of the other one, and I can't wait to see it again. 
+
+    So with those model toolboxes, I got a reputation at ILM for being super-fast, so when they had a two-week deadline I got the job. The level of detail we had to do for models like this was such that that's my model behind Obi-Wan and Jango during the fight. It's literally this tiny model filling the screen, and I find that deeply satisfying, but also being able to work as fast as I can think. I worked on Padme's apartment, I worked on R2D2. 
+     There's the original leather ones, you can see me smiling from the back of my head in this shot. This is the one R2 built to go from the two-leg to three-leg conversion and it will chop your arm off, this thing is so terrifying.
+    [laughter]
+    
+    There I am on the cover of Star Wars. George wanted a long shot of the hangar like where Jawas would build stuff, and they asked me to do it in a couple of days. 
+     This has a lovely lineage back to when I was 18 and I was talking to my best friend and he said, your problem, Adam, is that you have talent but no ambition. And I was like, really what does that mean? 
+     It means if you had genuine ambition, you wouldn't be saying, "I wish I..."   You'd be saying, "George, I think I can do that by Tuesday." He means Lucas. And then when this job came down the pike, I actually got to say, "I think I can do that by Tuesday, Mr. Lucas."
+    [laughter]
+    
+    There's my Jawa hangar in the great distance. And my shop today, my cave in San Francisco, is an extension of those toolboxes writ large. 
+    I have a philosophy about drawers, which is basically: fuck drawers.
+    [laughter]
+    
+    Yeah. Drawers are where things go to die. We still have a drawer in my kitchen that none of us have looked in in half a decade. It is packed to the gills. I have no idea what's in there. And this stack right here, I got rid of a six foot high stack of drawers by taking every plier and nipper and cutter and hand tool that I use that has two parts in it and put it in a ladder that I custom built for that. 
+    
+    Post Industrial Light and Magic, I went and made MythBusters for 15 years. Look at how young we were. Look at how sunny. Look at that. 
+     We got in trouble for this. Because of course, in the beginning everyone wanted us to do poodle in a microwave as a myth, like someone supposedly put their poodle in a microwave to dry it off and they fried it, and of course we're not going to do that, but we did a promo for the Discovery Channel where we put the poodle on top of the microwave and we put a treat inside and we said, don't you want to go in there? Go get that treat!
+    [laughter]
+    
+    Some people didn't get our sense of humor. There we were at the end. I think I lost 20 pounds and gave it to Jamie by the end of MythBusters. I think we could have continued doing it forever. This is my favorite fan art anyone has ever sent me.
+    [laughter]
+    
+    I never get tired of looking at this, I swear. It's uncanny.
+    [laughter]
+    
+    So now these days, on Tested, I am still building. I'm still -- you know, in everything that I've ever done for a living, there's been a little of that 15-year-old, or it wasn't working for me. 
+     And the great privilege that my parents gave me, aside from randomness of being born in America and white and upper middle class, was that they allowed me to quit jobs that were really terrible and would cover my rent for a couple of months while I found one that was really great. That was an incredible, incredible service that they gave to me. 
+     And on Tested, I'm still going through this journey of looking for people to play with and looking for ways to satisfy those original desires, because they've been the engine of everything that I have done up 'til now. 
+     And on Tested I do builds in the workshop. I know a lot of you are familiar with this. I do cosplay. This is my Admiral Ackbar dressed in Admiral Lord Nelson's Trafalgar uniform. When I couldn't find accurate replicas, I eventually found where to buy them from the company that made Lord Nelson's epaulets. 
+     It's England, man, and they're still around 40 years later. And they say, oh, you want the Nelsons? Sure we'll pull out the patterns.
+    I went to New York Comic Con last year as a full-size Totoro. If you want an antidepressant, walk around a con as Totoro. You're spreading this pack of joy around. My friend Dave is also a former Navy SEAL, and you know, that was a rough existence. And he is a deeply kind and sweet man, and he came into the house -- when I finished Totoro, most of my stuff lives in a cave. I live in a house that doesn't look like the cave. It looks like a house. 
+     But my wife occasionally, when I finished Totoro, she was like: You know that's coming home, right? So Totoro lives in my living room. And Dave was -- came in to walk the dogs, and he'd been there about a month, and he goes, Do you mind if I take a picture with Totoro? I'm like, not at all. 
+     I made a bear costume, and I dragged the carcass of Leonardo de Caprio through San Diego Comic Con. "You're not here for the hunting, are you?" 
+     So in my deep philosophy of "fuck drawers", (literally, I can't describe how much I despise them), I take my drawers and I slowly go through them and I refine them, so I take a drawer for sawblades like this and some foam core and hot glue, I do this. Oh! Right? Look at that. Tension, release. Tension, release.
+    I take -- this is all the blades. Oh, God, that's so great. magnifiers, oh, wait, this is world-changing, I figured out how to store wire. Anybody who has a lot of wire in their shop, right? It's a nightmare, because it's got this hole through it, so you're led to believe that the wire says, "put a spindle through me." 
+     That is the worst thing you can do, because then when you need that one spool of 28-gauge wire to run for this thing, you've got to pull it off, and your life is over!  It's ticking away, second by second!  
+     But I got this idea from some wire packaging, and it's a 90-degree trough of acrylic that holds each spool, but there's no spindle through them and a single hole, that you can dispense small amounts if you want to or you can reach over and pluck out the entire spool. Changed my life. 
+     Speaking of things that seem to want spindles through them and don't, I figured out how to store tape. This is a long way of saying that this philosophy of being able to work as fast as I can think, it's always been based on trying to find the balance.
+     Someone in a meet-and-greet before the show said, How do you balance all the stuff that you do with family? And that is a really important question. I have discovered in my life -- if you left me to my own devices, I would sometimes never leave my shop for weeks at a time. I love working. I can't stop. I'm always sketching, I'm always ideating, I'm always drawing, I love building. 
+     But I also love my family, and they need me and I need them. So over the years, part of the reason I like to work fast is because I can get to the other thing, which is dinner with my family or a quiet weekend. I can get things done quickly, I can iterate faster. And ultimately this came down to understanding that the term for the way I like to arrange my tools is what I call first-order retrievability, and I don't have to move anything out of the way to get to a mission-critical tool, and the entire shop is set up in this way so that all the first-use tools are first-surface tools.  And this allows me to go back in and work quickly. 
+     Like, even my power tools in the shop, I have spent decades building versions or acquiring versions of each power tool that allow me to work incredibly quickly. I've even bought airplane food carts and liquor carts and converted them into mobile work stations. One for glue, one for paint, one for electronics, one for tools, and that first-order availability, the primary thing it gives me is fast iteration. 
+     Because I fuck up constantly. Listen, making is -- I've been making for a living for 30 years, and it's no easier for me now than it ever was. It causes me great consternation. 
+     I was at a workbench yesterday trying to fix something and it failed in some key way, and I got really frustrated, and that's what it is to be a maker. 
+     I want to give this blanket explanation about making. Making is creating something from nothing. So it's writing, it's dancing, it's coding, it's everything. Every time you reach out and use your brain to solve a problem in a way that you haven't seen before, you are making. And to do it with any degree of excellence, I have found, requires everything that I have and it requires knowing myself. It requires talking to that 15-year-old self and realizing that these frustrations or self-esteem issues they feel real, but they're not necessarily real -- and it's one of my favorite stories to tell. 
+     On Tested a few months ago, I was making some space suits. And we trade parts back and forth. We are a mutual admiration society, so sometimes he makes something and sends me one and vice versa, and I was making some parts for him on Tested and we were covering it, but I hadn't used my full-size Bridgeport milling machine in several months -- and if you know machine tools, you know it's a specific mental exercise, probably similar to coding in different languages, where each one requires different types of setups, specifically in your brain and your thought process, and the machine tool is no different. I'm sitting there trying to think through order of operations and I'm continually getting it wrong. 
+     So I have this one simple dumbass little neural dial to make, and I made it four times and didn't succeed any single time. I would screw it up last minute or somewhere in the middle. And by the end of this first day, I was super frustrated, and the second day I started -- came back -- and oh, no, one-day builds always take two days -- and I came back into the shop on the second day and I finished it, I got it right. 
+     I had thought it through that night but I asked Joey to keep the camera rolling at the very end, and I said to the camera, I said, "Listen, you should understand that that frustration you saw on my face on yesterday's shoot on the iterative screwup is real. That was real frustration, in fact I went home so blue, so upset with myself that I had this thought, which is: You have no business making things." 
+     This is a ludicrous thing to think. It's ludicrous for anybody to think. It's dumb for me to think but that's where my brain went, and I wanted to normalize the fact that the imposter complex and self-esteem issues and issues of wishing you were smarter or could solve problems on the first try, they happen to absolutely everybody and nobody escapes from this, and it's actually quite beautiful, because that's the reason we do it, it's the reason we move forward to make something from nothing, and we talk these days about teaching kids how to fail, and it's a good eye-catching word, it gets your attention. 
+     Teaching kids how to fail, that sounds like the opposite of what we've always wanted to teach them!
+    [laughter]
+    
+    But let's be clear about what we mean by failure. Failure, real failure, is like getting drunk and missing your kid's bar mitzvah. That is unequivocally a failure. That's not the things we're trying to teach our kids. What we mean when we say failure, though, is a really interesting creative concept. It means that to my mind, when you set out to do something, when you set out to achieve an end, to make something, you are never going to end up where you thought you were. You could make as many plans and as many lists and as many maps and you can put an X on that map where you want to end up, I guarantee you you won't end up there. 
+     And that's why we do it. We do it because the path is winding and it has every kind of difficulty in the way. It is always a hero's journey and we're always going to come up against the same parts of ourselves to do it. I am always going -- I learned when I was at ILM: I'm at ILM, I'm at model-making Valhalla, and there isn't a single job that I didn't expect someone to tap me on the shoulder and say, "It's time for you to go home. We've all realized you don't know what you're doing." 
+     But teaching kids about failure is really teaching them to be awake to the fact that the path is winding and it's not going to take them where they expect. And that's not a bug, it's a feature.
+    Thank you.
+    [cheers and applause]
+    
