@@ -1,0 +1,4 @@
+- Slides: https://speakerdeck.com/es/incident-insights-from-nasa-ntsb-and-the-cdc
+- Talk Video: https://youtu.be/ODYO2MPymJ4
+- InfoQ Podcast: https://www.infoq.com/podcasts/emil-stolarsky
+- My Twitter: https://twitter.com/EmilStolarsky
